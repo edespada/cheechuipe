@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aiwafiedoo.hurshagrawal.com/sitemap.xml
